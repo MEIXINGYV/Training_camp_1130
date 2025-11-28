@@ -63,26 +63,6 @@ dependencies {
     implementation(libs.material)
 
 
-    implementation("com.google.accompanist:accompanist-swiperefresh:0.30.1")
-
-
-    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.8.0")
-    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.8.0")
-
-
-
-    implementation(libs.androidx.core.ktx)
-    implementation(libs.lifecycle.runtime.ktx)
-    implementation(libs.activity.compose)
-    implementation(libs.compose.ui)
-    implementation(libs.compose.ui.tooling.preview)
-    implementation(libs.compose.material3)
-    implementation(libs.compose.foundation)
-    implementation(libs.lifecycle.viewmodel.compose)
-    implementation(libs.coil.compose)
-
-    debugImplementation(libs.compose.ui.tooling)
-
     // Accompanist SwipeRefresh（稳定版）
     implementation("com.google.accompanist:accompanist-swiperefresh:0.30.1")
 
