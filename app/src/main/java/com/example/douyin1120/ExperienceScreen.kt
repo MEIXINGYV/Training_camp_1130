@@ -32,7 +32,7 @@ import androidx.compose.foundation.text.KeyboardActions
 import androidx.compose.foundation.text.KeyboardOptions
 import androidx.compose.ui.text.input.ImeAction
 
-// ===== 新增：布局模式枚举 =====
+// ===== 布局模式枚举 =====
 enum class LayoutMode {
     Double, Single
 }
@@ -48,7 +48,7 @@ fun ExperienceScreen(
     val columnState = rememberLazyListState()
     var searchQuery by remember { mutableStateOf("") }
 
-    // ===== 新增：布局切换状态 =====
+    // ===== 布局切换状态 =====
     var layoutMode by remember { mutableStateOf(LayoutMode.Double) }
 
     // 滚动到底部加载更多（双列）
