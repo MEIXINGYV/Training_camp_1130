@@ -41,7 +41,6 @@ android {
         compose = true
     }
 
-    // ⚠️ 不要写 composeOptions！Compose 编译器由 Kotlin 插件自动管理
 }
 
 dependencies {
