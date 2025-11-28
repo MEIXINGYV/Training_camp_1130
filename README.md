@@ -6,7 +6,7 @@
 
 ## 效果图
 
-![image-20251126010527680](image\show.png)
+![image-20251126010527680](image/show.png)
 
 ## 核心功能实现
 
