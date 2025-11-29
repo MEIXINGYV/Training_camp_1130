@@ -1,4 +1,4 @@
-# 作业一  高仿抖音经验频道
+ # 作业一  高仿抖音经验频道
 
 ---
 
@@ -8,15 +8,15 @@
 
 |                           双列模式                           |                           单列模式                           |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![image-20251129131539915](C:\Users\colorful\AppData\Roaming\Typora\typora-user-images\image-20251129131539915.png) | ![image-20251129131549305](C:\Users\colorful\AppData\Roaming\Typora\typora-user-images\image-20251129131549305.png) |
+| ![image-20251129131539915](image/1.png) | ![image-20251129131549305](image/2.png) |
 
 ## 序列图
 
-![image-20251129214319391](C:\Users\colorful\AppData\Roaming\Typora\typora-user-images\image-20251129214319391.png)
+![image-20251129214319391](image/8.png)
 
 ## 流程图
 
-![6](C:\Users\colorful\Desktop\6.png)
+![6](image/6.png)
 
 ## 核心功能实现
 
@@ -243,6 +243,7 @@ Text(
 ---
 
 通过本次开发，我不仅掌握了 Jetpack Compose 的基础组件与状态管理机制，更深刻理解了 **“状态驱动 UI”** 的设计哲学。每一个问题的解决过程，都是对 **健壮性、性能与用户体验** 的再思考。未来将进一步引入真实网络请求、持久化存储与动画交互，持续打磨产品细节
+
 
 
 
