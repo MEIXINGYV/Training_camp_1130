@@ -6,7 +6,17 @@
 
 ## 效果图
 
-![image-20251126010527680](image/show.png)
+|                           双列模式                           |                           单列模式                           |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| ![image-20251129131539915](C:\Users\colorful\AppData\Roaming\Typora\typora-user-images\image-20251129131539915.png) | ![image-20251129131549305](C:\Users\colorful\AppData\Roaming\Typora\typora-user-images\image-20251129131549305.png) |
+
+## 序列图
+
+![image-20251129214319391](C:\Users\colorful\AppData\Roaming\Typora\typora-user-images\image-20251129214319391.png)
+
+## 流程图
+
+![6](C:\Users\colorful\Desktop\6.png)
 
 ## 核心功能实现
 
